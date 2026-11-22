@@ -1,0 +1,4 @@
+Generated with the built-in Imagegen tool.
+Asset: assets/images/bubble_rush_icon.png
+Prompt: Premium mobile bubble shooter game icon, deep indigo/violet background, centered glossy cyan, pink and gold spheres, small white glint and upward motion trails. Clean dimensional casual puzzle style; no text, border or mockup.
+Launcher PNGs, ICO and splash derivatives are resized from this asset.
